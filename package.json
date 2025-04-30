@@ -23,6 +23,6 @@
     "valid-url"
   ],
   "dependencies": {
-    "valid-url-ts": "^1.0.1"
+    "valid-url-ts": "^1.0.2"
   }
 }
