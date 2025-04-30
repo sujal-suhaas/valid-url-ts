@@ -8,12 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com:sujal-suhaas/valid-url-ts.git"
+    "url": "git+https://github.com/sujal-suhaas/valid-url-ts.git"
   },
-  "author": "Your Name",
+  "author": "Sujal Suhaas",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.0.0",
-    "typescript": "^5.0.0"
+    "typescript": "^5.8.3"
+  },
+  "keywords": [
+    "url",
+    "validate",
+    "typescript",
+    "valid-url"
+  ],
+  "dependencies": {
+    "valid-url-ts": "^1.0.0"
   }
 }
