@@ -1,7 +1,6 @@
 # Node
 dist/
 *.js
-*.d.ts
 node_modules/
 npm-debug.log*
 yarn-debug.log*
