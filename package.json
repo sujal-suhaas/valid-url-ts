@@ -6,14 +6,11 @@
   "scripts": {
     "build": "tsc"
   },
+  "files": ["dist"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sujal-suhaas/valid-url-ts.git"
   },
-  "bugs": {
-    "url": "https://github.com/sujal-suhaas/valid-url-ts/issues"
-  },
-  "homepage": "https://github.com/sujal-suhaas/valid-url-ts#readme",
   "author": "Sujal Suhaas",
   "license": "MIT",
   "keywords": [
